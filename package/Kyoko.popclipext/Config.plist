@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Shell Script File</key>
+			<string>say.sh</string>
+			<key>Stoppable</key>
+			<true/>
+			<key>Title</key>
+			<string>Kyoko</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Speak the selected text aloud, using the Kyoko voice.</string>
+	<key>Extension Identifier</key>
+	<string>com.satoi8080.popclip.extension.kyoko</string>
+	<key>Extension Name</key>
+	<dict>
+		<key>en</key>
+		<string>Kyoko</string>
+		<key>fr</key>
+		<string>Kyoko</string>
+	</dict>
+	<key>Required Software Version</key>
+	<integer>693</integer>
+</dict>
+</plist>
